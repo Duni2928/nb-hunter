@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhttps_Duni2928_github_io_nb_hunter=self.webpackChunkhttps_Duni2928_github_io_nb_hunter||[]).push([[950],{2950:function(n,e,t){t.r(e);var s=t(184);e.default=function(){return(0,s.jsx)("form",{className:"form",children:(0,s.jsx)("div",{className:"container form__container",children:(0,s.jsxs)("label",{className:"form__item",children:[(0,s.jsx)("input",{type:"text"}),(0,s.jsx)("span",{children:"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f"})]})})})}}}]);
+//# sourceMappingURL=950.165ef14b.chunk.js.map
