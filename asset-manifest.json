@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nb-hunter/static/css/main.41da83d7.css",
+    "main.css": "/nb-hunter/static/css/main.da8548de.css",
     "main.js": "/nb-hunter/static/js/main.57199010.js",
     "static/js/225.53d8114c.chunk.js": "/nb-hunter/static/js/225.53d8114c.chunk.js",
     "static/js/757.d08d402d.chunk.js": "/nb-hunter/static/js/757.d08d402d.chunk.js",
@@ -15,7 +15,7 @@
     "index.html": "/nb-hunter/index.html",
     "static/media/search.svg": "/nb-hunter/static/media/search.5cd05dcb3fc968a38346.svg",
     "static/media/arrowdrop.svg": "/nb-hunter/static/media/arrowdrop.929184b4d1b50f648172.svg",
-    "main.41da83d7.css.map": "/nb-hunter/static/css/main.41da83d7.css.map",
+    "main.da8548de.css.map": "/nb-hunter/static/css/main.da8548de.css.map",
     "main.57199010.js.map": "/nb-hunter/static/js/main.57199010.js.map",
     "225.53d8114c.chunk.js.map": "/nb-hunter/static/js/225.53d8114c.chunk.js.map",
     "757.d08d402d.chunk.js.map": "/nb-hunter/static/js/757.d08d402d.chunk.js.map",
@@ -23,7 +23,7 @@
     "709.ebacfdd5.chunk.js.map": "/nb-hunter/static/js/709.ebacfdd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41da83d7.css",
+    "static/css/main.da8548de.css",
     "static/js/main.57199010.js"
   ]
 }
